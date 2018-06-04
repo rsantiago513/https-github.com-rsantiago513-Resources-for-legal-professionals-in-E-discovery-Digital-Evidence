@@ -1,1 +1,2 @@
-# Resources for legal professionals in E-discovery Digital Evidence
+# E-discovery and Digital Evidence resources for legal professionals 
+
