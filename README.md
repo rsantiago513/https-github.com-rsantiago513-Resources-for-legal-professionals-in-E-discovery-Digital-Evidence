@@ -50,4 +50,11 @@ Two E-Discovery and Digital Forensic Software tools are : EnCase, and FTK Imager
 
 
 ## Tutorial
-Here you will the link, that gives an overview of how install EnCase, https://www.youtube.com/watch?v=2FGgUw8Iyw4
+Here you will the link, that gives an overview of how install EnCase and FTK Imager.
+  * EnCase - https://www.youtube.com/watch?v=2FGgUw8Iyw4
+  * FTK Imager - https://www.youtube.com/watch?v=zuvjw6m8vo8
+
+
+Here you will see a link, that gives you an overview of how to use Encase and FTK Imager.
+  * EnCase - https://www.youtube.com/watch?v=usTsrBT5w_w
+  * FTK Imager - https://www.youtube.com/watch?v=Ca-9LWmau5Q
