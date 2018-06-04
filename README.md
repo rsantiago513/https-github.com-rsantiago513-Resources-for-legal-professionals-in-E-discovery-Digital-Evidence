@@ -42,8 +42,10 @@ Two E-Discovery and Digital Forensic Software tools are : EnCase, and FTK Imager
 ## Comparison of the Cons in EnCase and FTK Imager
 |EnCase      | FTK Imager |     
 |--------------|-----------------|
-|Pros          |        Pros     | 
+|Cons          |        Cons     | 
 |This is a very expensive tool.|FTK does not support scripting features.|
 |Encase processing can take a lot of time in case of very large compound files and mail boxes.|It does not have multi-tasking capabilities.|
 |The latest versions of Encase sometimes are not compatible with other forensic based tools.|There is no progress bar to estimate the time remaining.|
 |There is much usage of Encase for mobile forensics.|FTK does not have a timeline view.|
+
+
