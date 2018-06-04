@@ -49,3 +49,5 @@ Two E-Discovery and Digital Forensic Software tools are : EnCase, and FTK Imager
 |There is much usage of Encase for mobile forensics.|FTK does not have a timeline view.|
 
 
+## Tutorial
+Here you will the link, that gives an overview of how install EnCase, https://www.youtube.com/watch?v=2FGgUw8Iyw4
