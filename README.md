@@ -27,3 +27,23 @@ Digital forensics tools are used to capture hard drive images as part of the dut
 Two E-Discovery and Digital Forensic Software tools are : EnCase, and FTK Imager. 
   1. *Encase* - EnCase is a computer forensics tool designed by Guidance Software. It is an industry accepted tool used in numerous investigations by law enforcement and private companies. EnCase is used to acquire, analyze, and report on evidence. The program creates an .E01 image file when acquiring hard drives, which is the standard format for EnCase. When acquiring a hard drive, the investigator can either do a physical or logical acquisition. Physical acquisition is the process of imaging the entire drive and seeing all data on it, including items that have been deleted and hidden files. Logical acquisition is when the image is viewed in the same format as the computer file system. EnCase also verifies the drive image with the original drive using MD5 and SHA1 hash values and checksums.
   2. *FTK Imager* - FTK Imager is a commercial forensic imaging software distributed by AccessData. The program creates images from hard drives and other types of storage devices. FTK can create images in four different file formats: .E01, SMART, AFF, and Raw. These images can be one file or be split into segments that can be constructed later on. When the file is split into segments, the files can be moved and stored in several locations.
+
+## Comparison of the Pros in Encase and FTK Imager 
+|EnCase      | FTK Imager |     
+|--------------|-----------------|
+|Pros          |        Pros     |        
+|It is a very user friendly tool. Encase wins the race here as well by supporting the analyst with user friendly interface.|It has a simple user interface and advanced searching capabilities.|
+|With the paid version of Encase which supports all utilities, it also has a free version which can be used for evidence acquisition which is very easy to use. This tool is known as the Encase Imager.|FTK supports EFS decryption.|
+|In terms of processing and analysis features, this tool also has good reporting functionalities built into it.|It produces a case log file.|
+|With the increase in cyber threats, encryption plays a significant role in securing data in any type or kind of system. Encase has built in support for almost all types of encryption including Bitlocker, MacAfee, Symantec, Sophos etc.|It has significant bookmarking and salient reporting features.|
+|Good keyword searching capabilities and scripting features are available.|FTK Imager is free.|
+
+
+## Comparison of the Cons in EnCase and FTK Imager
+|EnCase      | FTK Imager |     
+|--------------|-----------------|
+|Pros          |        Pros     | 
+|This is a very expensive tool.|FTK does not support scripting features.|
+|Encase processing can take a lot of time in case of very large compound files and mail boxes.|It does not have multi-tasking capabilities.|
+|The latest versions of Encase sometimes are not compatible with other forensic based tools.|There is no progress bar to estimate the time remaining.|
+|There is much usage of Encase for mobile forensics.|FTK does not have a timeline view.|
