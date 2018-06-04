@@ -58,3 +58,4 @@ Here you will the link, that gives an overview of how install EnCase and FTK Ima
 Here you will see a link, that gives you an overview of how to use Encase and FTK Imager.
   * EnCase - https://www.youtube.com/watch?v=usTsrBT5w_w
   * FTK Imager - https://www.youtube.com/watch?v=Ca-9LWmau5Q
+  
