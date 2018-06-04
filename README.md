@@ -1,4 +1,4 @@
-# E-Discovery and Digital Evidence resources for legal professionals 
+# E-Discovery and Digital Evidence Resources for Legal Professionals 
 
 Electronic discovery (E-Discovery) refers to discovery in legal proceedings such as litigation, government investigations, or Freedom of Information Act requests, where the information sought is in electronic format often referred to as electronically stored information. Electronic discovery is subject to rules of civil procedure and agreed-upon processes, often involving review for privilege and relevance before data are turned over to the requesting party. Electronic information is considered different from paper information because of its intangible form, volume, transience and persistence. Electronic information is usually accompanied by metadata that is not found in paper documents and that can play an important part as evidence, for example, the date and time a document was written could be useful in a copyright case. The preservation of metadata from electronic documents creates special challenges to prevent spoliation.
 
